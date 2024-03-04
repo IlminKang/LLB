@@ -23,9 +23,9 @@ prediction
 
 ## Backbone
 
-- ViT (An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale) [[git]](https://github.com/huggingface/pytorch-image-models)
-- MAE (Masked Autoencoders Are Scalable Vision Learners) [[git]](https://github.com/facebookresearch/mae)
-- SWAG (Revisiting Weakly Supervised Pre-Training of Visual Perception Models) [[git]](https://github.com/facebookresearch/SWAG)
+- ViT (An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale) [[paper]](https://arxiv.org/abs/2010.11929) [[git]](https://github.com/huggingface/pytorch-image-models)
+- MAE (Masked Autoencoders Are Scalable Vision Learners) [[paper]](https://arxiv.org/abs/2111.06377) [[git]](https://github.com/facebookresearch/mae)
+- SWAG (Revisiting Weakly Supervised Pre-Training of Visual Perception Models) [[paper]](https://arxiv.org/abs/2201.08371) [[git]](https://github.com/facebookresearch/SWAG)
 
 ## Requirements
 - Pre-trained weights of different backbones (check the link at the Backbone section)

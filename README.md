@@ -1,6 +1,10 @@
 # Label-focused Latent-object Biasing (LLB) Implementation
  
-This repository contais implementation of the paper [Label-Focused Inductive Bias over Latent Object Features in Visual Classification](https://openreview.net/forum?id=cH3oufN8Pl&referrer=%5Bthe%20profile%20of%20Ilmin%20Kang%5D(%2Fprofile%3Fid%3D~Ilmin_Kang1)) published on  ICLR 2024
+This repository contains implementation of the paper [Label-Focused Inductive Bias over Latent Object Features in Visual Classification](https://openreview.net/forum?id=cH3oufN8Pl&referrer=%5Bthe%20profile%20of%20Ilmin%20Kang%5D(%2Fprofile%3Fid%3D~Ilmin_Kang1)) published on  ICLR 2024
+
+<p align="center">
+  <img src='https://github.com/IlminKang/LLB/blob/master/images/overview_all.jpg' alt="overview" width="520" >
+</p>
 
 We use pytorch Multi-processing Distributed Data Parallel Training for training Label-focused Latent-object Biasing (LLB) method
 
